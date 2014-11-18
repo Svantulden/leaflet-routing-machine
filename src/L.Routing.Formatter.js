@@ -120,7 +120,7 @@
 			case 'SlightLeft':
 				return 'slight-left';
 			case 'WaypointReached':
-				return 'arrive';
+				return 'via';
 			case 'Roundabout':
 				return 'enter-roundabout';
 			case 'DestinationReached':
